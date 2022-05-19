@@ -66,7 +66,7 @@ The P.E. Bank client [data](https://github.com/tiltonneena/PE-Bank-Project/blob/
     
 6.	All analysis and findings were consolidated into one report document for the manager of the sales team to review. 
     <p align="center">
-      <img width="480" height="260" src="Images/report_pg2.jpg"/>
+      <img width="476" height="368" src="Images/report_pg2.jpg"/>
     </p>
     <p align="center">
       <em>( ---------  )</em>
