@@ -48,10 +48,13 @@ The P.E. Bank client [data](https://github.com/tiltonneena/PE-Bank-Project/blob/
       <img width="369" height="210" src="Images/dataviz_age.jpg"/>
     </p>
     <p align="center">
+      <em>Combination chart of total customers (bars) for each<br>age-range overlayed on top of the exit rate (blue area) for each group.</em>
+    </p>
+    <p align="center">
       <img width="369" height="210" src="Images/dataviz_salary.jpg"/>
     </p>
     <p align="center">
-      <em>( ---------  )</em>
+      <em>Combination chart of total customers (bars) within each<br>salary-range along with the exit rate (blue line) of each group. </em>
     </p>
     
 
@@ -60,16 +63,13 @@ The P.E. Bank client [data](https://github.com/tiltonneena/PE-Bank-Project/blob/
     <p align="center">
       <img width="480" height="260" src="Images/decisiontree.jpg"/>
     </p>
-    <p align="center">
-      <em>( ---------  )</em>
-    </p>
     
 6.	All analysis and findings were consolidated into one report document for the manager of the sales team to review. 
     <p align="center">
       <img width="476" height="368" src="Images/report_pg2.jpg"/>
     </p>
     <p align="center">
-      <em>( ---------  )</em>
+      <em>A page from the 16 page report documenting each step taken for the complete analysis.</em>
     </p>
     
 ### Key Findings
