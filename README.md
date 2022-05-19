@@ -69,7 +69,7 @@ The P.E. Bank client [data](https://github.com/tiltonneena/PE-Bank-Project/blob/
       <img width="476" height="368" src="Images/report_pg2.jpg"/>
     </p>
     <p align="center">
-      <em>A page from the 16 page report documenting each step taken for the complete analysis.</em>
+      <em>A page taken from the 16 page report documenting each step taken for the complete analysis.</em>
     </p>
     
 ### Key Findings
