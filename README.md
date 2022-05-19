@@ -83,5 +83,5 @@ The P.E. Bank client [data](https://github.com/tiltonneena/PE-Bank-Project/blob/
 [Full Report Document](https://drive.google.com/file/d/13jXS39TpEYZFVgbemn-oLIMgKqJ3uhxD/view)
 
 <p align="center">
-  <img width="" height="" src="Images/.jpg"/>
+  <img width="420" height="228" src="Images/fullreport.jpg"/>
 </p>
