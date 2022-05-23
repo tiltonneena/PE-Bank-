@@ -1,4 +1,9 @@
+<p align="right">
+  <a href="https://tiltonneena.github.io/portfolio/">Back to Portfolio Homepage</a>
+</p>
+
 # P.E. Bank Customer Retention Project
+### By Neena Tilton
 
 <p align="center">
   <img width="500" height="330" src="Images/banking.jpg"/>
@@ -84,4 +89,8 @@ The P.E. Bank client [data](https://github.com/tiltonneena/PE-Bank-Project/blob/
 
 <p align="center">
   <img width="420" height="228" src="Images/fullreport.jpg"/>
+</p>
+
+<p align="right">
+  <a href="https://tiltonneena.github.io/portfolio/">Back to Portfolio Homepage</a>
 </p>
