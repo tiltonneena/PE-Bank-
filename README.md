@@ -10,17 +10,17 @@
 </p>
 
 ### Background
-A global financial services company is working to increase customer retention. The sales team is looking to identify the leading indicators that a customer will leave the bank. The goal of the analysis is to build a prototype model to predict probability of customer departure based on profile attributes, such as age, estimated salary, gender, etc. The project will involve addressing personally identifiable information, data privacy, and data security. 
+A global financial services company is working to increase customer retention. The sales team is looking to identify the leading indicators that a customer will leave the bank. The goal of the analysis is to build a prototype model to predict the probability of customer departure based on profile attributes, such as age, estimated salary, gender, etc. The project will involve addressing personally identifiable information, data privacy, and data security. 
 
 ### Tools & Context
-- **Microsoft Excel:** predictive analysis, forecasting, time-series analysis, hypothesis testing, and data visualizations. 
+- **Microsoft Excel:** predictive analysis, forecasting, time-series analysis, hypothesis testing, and data visualization. 
 
 ### Data Source
-The P.E. Bank client [data](https://github.com/tiltonneena/PE-Bank-Project/blob/main/Dataset/PEBank_dataset.xlsx) used for this project is a fictionalized data set provided by CareerFoundry. The dataset has 991 rows with 11 columns. 
+The P.E. Bank client [data](https://github.com/tiltonneena/PE-Bank-Project/blob/main/Dataset/PEBank_dataset.xlsx) used for this project is a fictionalized data set provided by CareerFoundry. The data set had 991 rows with 11 columns. 
 
 ### Methodology
 
-1.	The analysis began with a thorough assessment of data quality by tackling missing and duplicate data. Also, data privacy was a central focus in this project since the data set contained client last names, age, gender, salary information, and other personally identifiable information. To protect customer privacy, the whole column containing customer last names was removed. Data accuracy check was also performed by running an outlier check, an extreme values check, and  a descriptive statistics check.  
+1.	The analysis began with a thorough assessment of data quality by tackling missing and duplicate data. Also, data privacy was a central focus in this project since the data set contained client last names, age, gender, salary information, and other personally identifiable information. To protect customer privacy, the whole column containing customer last names was removed. Data accuracy checks were also performed by running an outlier check, an extreme values check, and  a descriptive statistics check.  
 
     <p align="center">
       <img width="274" height="465" src="Images/outlier.jpg"/>
@@ -29,7 +29,7 @@ The P.E. Bank client [data](https://github.com/tiltonneena/PE-Bank-Project/blob/
       <em>Section of the report showing the outlier assessment.</em>
     </p>
     
-2.	Once data quality was confirmed, hypothesis testing for each profile factor was performed. 
+2.	Once the data quality was confirmed, hypothesis testing was performed for each profile factor. 
 
     <p align="center">
       <img width="337" height="373" src="Images/hypothesis.jpg"/>
@@ -44,10 +44,10 @@ The P.E. Bank client [data](https://github.com/tiltonneena/PE-Bank-Project/blob/
       <img width="421" height="122" src="Images/agerange.jpg"/>
     </p>
     <p align="center">
-      <em>Each age range had a varying exit rate percentages.</em>
+      <em>Each age range had a varying exit rate percentage.</em>
     </p>
     
-4.	Data visualizations were drafted to make the finding more digestible. 
+4.	Data visualizations were drafted to make the findings more digestible. 
 
     <p align="center">
       <img width="369" height="210" src="Images/dataviz_age.jpg"/>
@@ -69,18 +69,18 @@ The P.E. Bank client [data](https://github.com/tiltonneena/PE-Bank-Project/blob/
       <img width="480" height="260" src="Images/decisiontree.jpg"/>
     </p>
     
-6.	All analysis and findings were consolidated into one report document for the manager of the sales team to review. 
+6.	All analyses and findings were consolidated into one report for the manager of the sales team to review. 
     <p align="center">
       <img width="476" height="368" src="Images/report_pg2.jpg"/>
     </p>
     <p align="center">
-      <em>A page taken from the 16 page report documenting each step taken for the complete analysis.</em>
+      <em>A page taken from the 16-page report, documenting each step taken for the complete analysis.</em>
     </p>
     
 ### Key Findings
-- Age was the number one leading factor that impacts customer retention. A customer within the age range of 40 to 70 years old is 42.6% more likely to leave the bank.
-- Membership was the second leading factor to impact retention. An inactive member is 29.3% more likely to leave than an active member.
-- Gender was the third leading factor that impacts customer retention. Of the total customer base who are female, 26.1% have left the bank.
+- Age was the number one leading factor that impacted customer retention. A customer between the ages of 40 and 70 years was 42.6% more likely to leave the bank.
+- Membership was the second leading factor that impacted retention. An inactive member was 29.3% more likely to leave than an active member.
+- Gender was the third leading factor that impacted customer retention. Of the total customer base who were female, 26.1% left the bank.
 
 
 ### Deliverable
